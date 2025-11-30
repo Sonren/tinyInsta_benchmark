@@ -63,7 +63,7 @@ def create_barplot_with_variance(csv_file, output_file, title, xlabel):
 
 
 def main():
-    csv_dir = "out"
+    csv_dir = "outAsync"
     
     benchmarks = [
         {
