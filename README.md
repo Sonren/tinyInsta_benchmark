@@ -135,7 +135,10 @@ python3 seed_improved.py --users 1000 --posts 100000 --follows-min 100 --follows
 
 ### Additional Notes : 
 
-A faster database population script is available: `seed_improved.py`.
-A script to delete the entire database is available: `delete.py`
+A faster database population script is available: `seed_improved.py`
+
+A script to delete the entire database is available: `delete.py` 
+
+All the result are avaible on the folder `outAsynch`
 
 
